@@ -3,6 +3,7 @@ echo "1) DB-Password of SQL"
 echo "2) Dumped Emails and Passwords"
 echo "3) Database's Usernames and Passwords"
 echo "4) FileZilla Usernames and Passwords"
+echo "5) Collects a lot in an excel file"
 echo
 echo "Enter The Number : "
 read F1
@@ -27,6 +28,10 @@ case $F1 in
 		clear
 		xdg-open "https://www.google.com/search?q=%22FileZilla%22%20inurl:%22recentservers.xml%22%20-git"
 		echo "Browser Opened"
+		;;
+	5)
+		clear
+		xdg-open "https://www.google.com/search?q=ext:xls%20intext:NAME%20intext:TEL%20intext:EMAIL%20intext:PASSWORD"
 		;;
 
 esac
