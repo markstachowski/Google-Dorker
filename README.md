@@ -13,3 +13,12 @@ Goto : https://github.com/N3V0N/Google-Dorker/releases
 
 Download the latest release and do
 `bash gd.sh` 
+
+
+# Want to Contribute ?
+
+Email me at navanchauhan@gmail.com for submitting awesome links or else create a pull requests
+
+# Credits
+
+Exploit-DB Members for making such a comprehensive list
