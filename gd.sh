@@ -16,7 +16,7 @@ case $F1 in
 	2) 
 		clear
 		echo "Browser Opened"
-		xdg-open "https://www.google.com/search?q=site:pastebin.com%20intext:%22*@*.com:*%22"
+		xdg-open "https://www.google.com/search?q=site:pastebin.com%20intext:%22*@*.com:*%22%20-u"
 			;;
 	3)
 		clear
