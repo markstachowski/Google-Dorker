@@ -19,4 +19,4 @@ Download the latest release and do
 
 ## Want to Contribute ?
 
-Email me at navanchauhan@gmail.com for submitting awesome links or else create a pull requests
+Email me at <navanchauhan@gmail.com> for submitting awesome links or else create a pull requests
