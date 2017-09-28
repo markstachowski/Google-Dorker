@@ -1,4 +1,8 @@
 # Google-Dorker
+![Version](https://img.shields.io/github/release/navanchauhan/Google-Dorker.svg)
+[![License](https://img.shields.io/github/license/navanchauhan/Google-Dorker.svg)]()
+![Issues](https://img.shields.io/github/issues/navanchauhan/Google-Dorker.svg)
+
 
 ## Setup and Usage :
 
@@ -17,6 +21,3 @@ Download the latest release and do
 `bash gd.sh` 
 
 
-## Want to Contribute ?
-
-Email me at <navanchauhan@gmail.com> for submitting awesome links or else create a pull requests
