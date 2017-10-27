@@ -7,7 +7,6 @@ echo "5) Collects a lot in an excel file"
 echo
 echo "Enter The Number : "
 read F1
-F=`echo $F1 | sed s/\ /+/g`
 case $F1 in
 	1)
 		clear
